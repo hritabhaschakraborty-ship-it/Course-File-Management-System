@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-*
+uploads/
+coverage/
